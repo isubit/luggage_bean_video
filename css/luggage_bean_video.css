@@ -11,3 +11,10 @@
   font-size: 0.9rem;
   text-decoration: none;
 }
+
+.field-name-field-bean-video-transcript a:hover,
+.field-name-field-bean-video-transcript a:focus {
+  color: white;
+  background: #333333;
+  border-color: #333333;
+}
